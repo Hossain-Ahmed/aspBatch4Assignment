@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1_DevSkill\\GITHUB\\AspNet-DevSkill\\SOLID Principle\\SRP2\\SRP2.csproj": {}
+    "E:\\1_DevSkill\\GITHUB\\aspBatch4Assignment\\Assignment_1\\SOLID Principle\\SRP2\\SRP2.csproj": {}
   },
   "projects": {
-    "E:\\1_DevSkill\\GITHUB\\AspNet-DevSkill\\SOLID Principle\\SRP2\\SRP2.csproj": {
+    "E:\\1_DevSkill\\GITHUB\\aspBatch4Assignment\\Assignment_1\\SOLID Principle\\SRP2\\SRP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1_DevSkill\\GITHUB\\AspNet-DevSkill\\SOLID Principle\\SRP2\\SRP2.csproj",
+        "projectUniqueName": "E:\\1_DevSkill\\GITHUB\\aspBatch4Assignment\\Assignment_1\\SOLID Principle\\SRP2\\SRP2.csproj",
         "projectName": "SRP2",
-        "projectPath": "E:\\1_DevSkill\\GITHUB\\AspNet-DevSkill\\SOLID Principle\\SRP2\\SRP2.csproj",
+        "projectPath": "E:\\1_DevSkill\\GITHUB\\aspBatch4Assignment\\Assignment_1\\SOLID Principle\\SRP2\\SRP2.csproj",
         "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-        "outputPath": "E:\\1_DevSkill\\GITHUB\\AspNet-DevSkill\\SOLID Principle\\SRP2\\obj\\",
+        "outputPath": "E:\\1_DevSkill\\GITHUB\\aspBatch4Assignment\\Assignment_1\\SOLID Principle\\SRP2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

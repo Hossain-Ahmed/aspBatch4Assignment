@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LnlkDBDNIiNDdAUZcCcYaiz4dtX1QRKDpdbRgTM7U9uU8UlRs1gFXEbFvZgWg2M5vscCInbsJNCfUSfeXU2xrw==",
+  "dgSpecHash": "KNJJ9Ms604fxKE7R9rSdRSpDOaQPS3OwFrdZyLQ9rD8Eo2x/+Kx4ptPQbokXO5Mi04aB+lXNO1mdO03cpbaJCg==",
   "success": true,
-  "projectFilePath": "E:\\1_DevSkill\\GITHUB\\AspNet-DevSkill\\SOLID Principle\\OCP\\OCP.csproj",
+  "projectFilePath": "E:\\1_DevSkill\\GITHUB\\aspBatch4Assignment\\Assignment_1\\SOLID Principle\\OCP\\OCP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
