@@ -1,0 +1,13 @@
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\bin\Debug\netcoreapp3.1\OCP.exe
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\bin\Debug\netcoreapp3.1\OCP.deps.json
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.json
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.dev.json
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\bin\Debug\netcoreapp3.1\OCP.dll
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\bin\Debug\netcoreapp3.1\OCP.pdb
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\obj\Debug\netcoreapp3.1\OCP.csprojAssemblyReference.cache
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfoInputs.cache
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfo.cs
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\obj\Debug\netcoreapp3.1\OCP.csproj.CoreCompileInputs.cache
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\obj\Debug\netcoreapp3.1\OCP.dll
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\obj\Debug\netcoreapp3.1\OCP.pdb
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\OCP\obj\Debug\netcoreapp3.1\OCP.genruntimeconfig.cache

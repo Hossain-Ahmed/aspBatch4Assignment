@@ -1,0 +1,13 @@
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\bin\Debug\netcoreapp3.1\SRP.exe
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\bin\Debug\netcoreapp3.1\SRP.deps.json
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.json
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.dev.json
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\bin\Debug\netcoreapp3.1\SRP.dll
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\bin\Debug\netcoreapp3.1\SRP.pdb
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\obj\Debug\netcoreapp3.1\SRP.csprojAssemblyReference.cache
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\obj\Debug\netcoreapp3.1\SRP.AssemblyInfoInputs.cache
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\obj\Debug\netcoreapp3.1\SRP.AssemblyInfo.cs
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\obj\Debug\netcoreapp3.1\SRP.csproj.CoreCompileInputs.cache
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\obj\Debug\netcoreapp3.1\SRP.dll
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\obj\Debug\netcoreapp3.1\SRP.pdb
+E:\1_DevSkill\GITHUB\AspNet-DevSkill\SOLID Principle\SRP\obj\Debug\netcoreapp3.1\SRP.genruntimeconfig.cache
