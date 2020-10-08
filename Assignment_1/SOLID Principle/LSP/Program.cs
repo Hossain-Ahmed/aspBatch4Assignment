@@ -6,6 +6,9 @@ namespace LSP
     {
         static void Main(string[] args)
         {
+            DairyFood dairyFood = new DairyFood();
+
+            Helicopter helicopter = new Helicopter();
             
         }
     }
